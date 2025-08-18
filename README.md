@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hey, I’m Thiago — aspiring Software Engineer<br>🔍 Focused on QA<br>💻 Building a student Newsletter (Full-Stack)<br>🛠️ QA on a Projetos de Extensão management platform<br>🎓 Grad finishing in 2027
-
+👋 Hey, I’m Thiago — aspiring Software Engineer <br>
+💻 Full-Stack member at **Mais Informa** (newsletter & student news platform)<br>
+🛠️ QA at **GEX** (University Extension Management platform)<br>
+🔍 Focused on QA & Full-Stack Development<br>
+🎓 Software Engineering undergrad, graduating in 2027<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HeyIAmThiago) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sou-thiago-sousa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiago28mts@gmail.com) 
