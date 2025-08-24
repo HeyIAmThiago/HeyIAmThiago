@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Thiago — aspiring Software Engineer <br>
+👋 Hey, I’m Thiago — an aspiring Software Engineer <br>
 💻 Full-Stack member at **Mais Informa** (newsletter & student news platform)<br>
 🛠️ QA at **GEX** (University Extension Management platform)<br>
 🔍 Focused on QA & Full-Stack Development<br>
