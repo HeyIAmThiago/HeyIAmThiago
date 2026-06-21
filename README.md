@@ -1,11 +1,11 @@
 # 💫 About Me:
 👋 Hey, I’m Thiago — an aspiring Software Engineer <br>
-🛠️ QA at **RPE** (Retail Payment Ecosystem)<br>
+🛠️ QA Intern at **RPE** (Retail Payment Ecosystem)<br>
 🔍 Focused on QA & Full-Stack Development<br>
 🎓 Software Engineering undergrad, graduating in 2027<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HeyIAmThiago) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sou-thiago-sousa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiago28mts@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sou-thiago-sousa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiago28mts@gmail.com) 
 
 # 💻 Tech Stack:
 
